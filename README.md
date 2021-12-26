@@ -6,7 +6,7 @@
 - 🌞 Moro no Rio Grande do Norte
 - ❤️ Sou apaixonada por tecnologia e principalmente pelo Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" height="20"/> O robozinho verde, conquistou o meu coração! ❤️
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DeniseLeandroDeCastro/DeniseLeandroDeCastro/blob/output/github-contribution-grid-snake.svg)
 
 ## Ferramentas e Tecnologias
 ### Trabalho atualmente
