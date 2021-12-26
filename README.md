@@ -6,6 +6,8 @@
 - 🌞 Moro no Rio Grande do Norte
 - ❤️ Sou apaixonada por tecnologia e principalmente pelo Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" height="20"/> O robozinho verde, conquistou o meu coração! ❤️
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ## Ferramentas e Tecnologias
 ### Trabalho atualmente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
@@ -40,6 +42,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseLeandroDeCastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
