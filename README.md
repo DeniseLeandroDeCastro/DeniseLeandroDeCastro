@@ -1,4 +1,4 @@
-## Olá, meu nome é Denise Maria Leandro de Castro,
+## Olá, meu nome é Denise,
 ### seja muito bem vindo(a) ao meu perfil no GitHub!👋
 
 - 🎓 Sou graduada em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN
