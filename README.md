@@ -4,7 +4,7 @@
 - 🎓 Sou graduada em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN
 - ❤️ Trabalho como Desenvolvedora Android Júnior na Compass Tecnologia
 - 🌞 Moro no Rio Grande do Norte
-- ❤️ Sou apaixonada por tecnologia e principalmente pelo Android <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" height="20"/> O robozinho verde, conquistou o meu coração!
+- ❤️ Sou apaixonada por tecnologia e principalmente pelo Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" height="20"/> O robozinho verde, conquistou o meu coração! ❤️
 
 ## Ferramentas e Tecnologias
 ### Trabalho atualmente
