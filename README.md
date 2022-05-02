@@ -11,14 +11,16 @@
 <div>
 <h1> Ferramentas e Tecnologias </h1>
 <h2> Trabalho atualmente </h2>
-* Android (Java / Kotlin)
-* macOS
-* Ubuntu
-* Intelij
-* Slack
-* VSCode
-* Git / GitHub
-* Jira
+  <ul>
+    <li>Android (Java / Kotlin)</li>
+    <li>macOS</li>
+    <li>Ubuntu</li>
+    <li>Intelij</li>
+    <li>Slack</li>
+    <li>VSCode</li>
+    <li>Git / GitHub</li>
+    <li>Jira</li>
+  </ul>
 </div>
 <div>
 <h2> Estou aprendendo </h2>
