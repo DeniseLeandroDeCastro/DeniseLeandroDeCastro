@@ -1,7 +1,7 @@
 # Olá, meu nome é Denise,
 ## É muito bom receber sua visita! 👋
 
-Sou graduada em **Tecnologia em Sistemas para Internet**, um curso que visa a formação de profissionais que atuam tanto no *backend*, como no *frontend*. Dentre as disciplinas estudadas, estão: Programação WEB I e II; Redes de Computadores; Arquitetura de Computadores; Sistemas Operacionais; Programação para Banco de Dados; Análise e Desenvolvimento de Sistemas; Programação Orientada a Objetos; Estrutura de Dados; Engenharia de Software; Desenvolvimento de Aplicativos para Dispositivos Móveis, entre outras.<br><br>
+Sou graduada em **Tecnologia em Sistemas para Internet**, um curso que visa a formação de profissionais que atuam tanto no *backend*, como no *frontend*. 
 Em Abril de 2021, apresentei o meu Trabalho de Conclusão de Curso - TCC, um aplicativo para Android, cuja finalidade é a prevenção de assaltos a ônibus no Rio Grande do Norte. O *app* está todo em Java, e o *backend*, utilizando o *Firebase*. Todo o planejamento contou com o apoio da UML. Em Setembro do mesmo ano, colei grau.
 
 ## Contatos:
