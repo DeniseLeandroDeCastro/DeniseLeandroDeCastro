@@ -47,12 +47,13 @@ Sou natural de Natal/RN e apaixonada pela tecnologia, pois ela permite tornar o 
 #### :uk: SENAC - English course, Express II
 
 ### Muito prazer, eu sou Denise Castro, Desenvolvedora Android Nativo, apaixonada por tecnologia e disposta a transformar a paixão em excelência! :rocket:
+#### Acesse meu [portfólio](https://deniseleandrodecastro.github.io/portifolio/) 
 
 ## Contatos:
 
 <div>
 <a href = "dmaria.natal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/denise-castro-59425b4a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/denise-castro-59425b4a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        
 </div> 
 
 ## Estatísticas:
