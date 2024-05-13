@@ -1,62 +1,39 @@
-# Olá!
-## É muito bom receber sua visita! :smiley:
+![android_app_development](https://github.com/DeniseLeandroDeCastro/DeniseLeandroDeCastro/assets/29150094/804d4739-3b48-43bb-b668-16fa2ee473ae)
 
-Sou natural de Natal/RN e apaixonada pela tecnologia, pois ela permite tornar o dia-a-dia de quem a utiliza, mais prático, proporcionando por exemplo, acessar o saldo da conta bancária em questão de segundos ou mesmo fazer uma transferência em poucos cliques. Proporciona bem-estar quando falamos com amigos ou entes queridos e quando podemos vê-los em tempo real. É com o uso da tecnologia que podemos solicitar o transporte de dentro de casa, pedir a refeição preferida, ouvir a playlist que selecionamos com tanto cuidado e, quem diria, permite trabalhar de casa e contribuir para que toda essa magia aconteça, colaborando ativamente com o crescimento das empresas e fazendo girar a economia do país.
+<h4 align="center">:green_heart: Android Developer | :mortar_board: Graduação em Tecnologia em Sistemas para Internet | :books: Lifelong Learner</h4> <br><br>
 
-<p>Sou graduada em Tecnologia em Sistemas para Internet, desde Setembro de 2021. Como profissional de tecnologia, tive grandes desafios, desde quando ainda era estudante universitária, e escolhi fazer um TCC criando um aplicativo mobile, quando poderia ter optado por apresentar um relatório de estágio no meu trabalho de conclusão de curso. Ainda como estudante, e próximo a concluir a faculdade, tive outro grande desafio a encarar: fui contratada para atuar como desenvolvedora Android em uma gigante da tecnologia sem ter nenhuma experiência. Claro que aceitei o desafio e hoje, sou uma profissional que agrega valor com a minha contratação.</p>
+# Olá, :smiley: Eu sou Denise Castro e é muito bom receber sua visita! 
 
-## Aqui um pouco da minha experiência:
-### Tecnologias para Desenvolvimento Android:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30"/> Java 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="30" height="30"/> kotlin 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="30" height="30" /> Jetpack Compose
+Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência. Como profissional de tecnologia, tenho como meta desenvolver códigos mais limpos e descomplicados para que qualquer profissional, independente da sua senioridade, consiga entender. Em busca de alcançar essa meta, estudo diariamente lendo alguns artigos, livros e desenvolvendo pequenos projetos pessoais. <br><br>
 
-### IDEs:
+## :briefcase: Algumas Skills <br>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Iguana)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" /> Intelij
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30"/> Visual Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android | Java | kotlin | Jetpack Compose <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Jellyfish) | Intellij | Visual Studio Code <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30" /> Firebase |  MySQL <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" /> Figma | Canvas <br>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Github <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30"/> Linux (Ubuntu) | Windows | macOS <br><br>
 
-### Ambiente para testar os endpoints das APIs:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman
-
-### CI / CD:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins
-
-### Database não relacional:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30" /> Firebase
-
-### Database relacional (SGDB):
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30"/> MySQL
-
-### Design:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" /> Figma
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="30" height="30"/> Canvas
-
-### Compartilhamento de código:
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Github
-          
-### Sistemas Operacionais:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30"/> Linux (Ubuntu)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30" height="30"/> Windows
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="30" height="30"/> macOS
 
 ## Idiomas que estou aprendendo: 
-#### :uk: SENAC - English course, Express II
+### :uk: SENAC - English course, Express II <br><br>
 
-### Muito prazer, eu sou Denise Castro, Desenvolvedora Android Nativo, apaixonada por tecnologia e disposta a transformar a paixão em excelência! :rocket:
-#### Acesse meu [portfólio](https://deniseleandrodecastro.github.io/portifolio/) 
-
-## Contatos:
+## :speech_balloon: Let's connect: <br>
 
 <div>
-<a href = "dmaria.natal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/denise-castro-59425b4a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        
-</div> 
 
-## Estatísticas:
+### :mailbox: dmaria.natal@gmail.com 
+          
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24"/> [Linkedin](https://www.linkedin.com/in/denise-castro-59425b4a/) <br>
+          
+### :globe_with_meridians: [Portfólio](https://deniseleandrodecastro.github.io/portifolio/) 
+
+</div> <br>
+
+## :bar_chart: Estatísticas: <br>
 
 <div>
 <a href="https://github.com/DeniseLeandroDeCastro">
