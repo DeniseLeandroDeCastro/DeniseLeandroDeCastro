@@ -19,7 +19,7 @@ Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência.
 
 
 ## Idiomas que estou aprendendo: 
-### :uk: SENAC - English course, Express II <br><br>
+### :uk: SENAC - English course, Express IV <br><br>
 
 ## :speech_balloon: Let's connect: <br>
 
