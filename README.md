@@ -1,4 +1,6 @@
-![android_app_development](https://github.com/DeniseLeandroDeCastro/DeniseLeandroDeCastro/assets/29150094/804d4739-3b48-43bb-b668-16fa2ee473ae)
+![image](https://github.com/user-attachments/assets/3ae775d9-6fc2-49fb-bbde-b8ca1df3b8a5)
+
+
 
 <h4 align="center">:green_heart: Android Developer | :mortar_board: Graduação em Tecnologia em Sistemas para Internet | :books: Lifelong Learner</h4> <br><br>
 
@@ -9,7 +11,7 @@ Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência.
 ## :briefcase: Algumas Skills <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android | Java | kotlin | Jetpack Compose <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Jellyfish) | Intellij | Visual Studio Code <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Koala) | Intellij | Visual Studio Code <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30" /> Firebase |  MySQL <br>
