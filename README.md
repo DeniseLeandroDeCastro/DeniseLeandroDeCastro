@@ -10,10 +10,10 @@ Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência.
 
 ## :briefcase: Algumas Skills <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android | Java | kotlin | Jetpack Compose <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android | Java | kotlin | Compose | ServerDrivenUI<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Koala) | Intellij | Visual Studio Code <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman | Insomnia <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins | Bitrise <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30" /> Firebase |  MySQL <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" /> Figma | Canvas <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Github <br>
