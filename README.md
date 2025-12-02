@@ -6,7 +6,7 @@
 
 # Olá, :smiley: Eu sou Denise Castro e é muito bom receber sua visita! 
 
-Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência. Como profissional de tecnologia, tenho como meta desenvolver códigos mais limpos e descomplicados para que qualquer profissional, independente da sua senioridade, consiga entender. Em busca de alcançar essa meta, estudo diariamente lendo alguns artigos, livros e desenvolvendo pequenos projetos pessoais. <br><br>
+Sou desenvolvedora Android apaixonada por tecnologia com 4 anos de experiência. Como profissional de tecnologia, tenho como meta desenvolver códigos mais limpos e descomplicados para que qualquer profissional, independente da sua senioridade, consiga entender. Em busca de alcançar essa meta, estudo diariamente lendo alguns artigos, livros e desenvolvendo pequenos projetos pessoais. <br><br>
 
 ## :briefcase: Algumas Skills <br>
 
@@ -21,7 +21,7 @@ Sou desenvolvedora Android apaixonada por tecnologia com 3 anos de experiência.
 
 
 ## Idiomas que estou aprendendo: 
-### :uk: SENAC - English course, Express IV <br><br>
+### :uk: SENAC - English course, Express V <br><br>
 
 ## :speech_balloon: Let's connect: <br>
 
