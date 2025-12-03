@@ -1,44 +1,60 @@
-![image](https://github.com/user-attachments/assets/3ae775d9-6fc2-49fb-bbde-b8ca1df3b8a5)
+<img width="1058" height="595" alt="background_readme_github" src="https://github.com/user-attachments/assets/f6dbc22f-f0b1-460c-9b3b-ef13e6d808f5" />
+
+### 👋 Sobre mim
+
+Sou graduada em Tecnologia em Sistemas para Internet (I.F.R.N), atuo como desenvolvedora Android profissionalmente há quatro anos e sou  simplesmente apaixonada por tecnologia. Como profissional, busco sempre escrever código **claro, limpo e descomplicado**, para que qualquer pessoa — independentemente da senioridade — consiga entender e dar continuidade ao trabalho. Para melhorar continuamente, mantenho uma rotina de estudos: leio artigos, livros e desenvolvo pequenos projetos pessoais que me ajudam a evoluir na prática.
+
+---
+
+### 🛠️ Skills
+
+### **Mobile**
+- Android  
+- Java  
+- Kotlin  
+- Jetpack Compose  
+- Server-Driven UI  
+
+### **Ferramentas**
+- Android Studio   
+- IntelliJ IDEA  
+- Visual Studio Code  
+
+### **APIs / Backend**
+- Postman  
+- Insomnia  
+- Firebase  
+- MySQL  
+
+### **CI/CD**
+- Jenkins  
+- Bitrise  
+
+### **Design**
+- Figma  
+- Canva  
+
+### **Sistemas Operacionais**
+- Linux (Ubuntu)  
+- Windows  
+- macOS
+- Android
+
+---
+
+### 🌍 Idiomas
+**Inglês** — SENAC, Express V
+
+---
+
+### 📬 Contato
+[![Email](https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmaria.natal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denise-castro-59425b4a/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deniseleandrodecastro.github.io/portifolio/)
+
+---
 
 
 
-<h4 align="center">:green_heart: Android Developer | :mortar_board: Graduação em Tecnologia em Sistemas para Internet | :books: Lifelong Learner</h4> <br><br>
-
-# Olá, :smiley: Eu sou Denise Castro e é muito bom receber sua visita! 
-
-Sou desenvolvedora Android apaixonada por tecnologia com 4 anos de experiência. Como profissional de tecnologia, tenho como meta desenvolver códigos mais limpos e descomplicados para que qualquer profissional, independente da sua senioridade, consiga entender. Em busca de alcançar essa meta, estudo diariamente lendo alguns artigos, livros e desenvolvendo pequenos projetos pessoais. <br><br>
-
-## :briefcase: Algumas Skills <br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30"/> Android | Java | kotlin | Compose | ServerDrivenUI<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> Android Studio (Utilizo a versão Koala) | Intellij | Visual Studio Code <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30"/> Postman | Insomnia <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30"/> Jenkins | Bitrise <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30" /> Firebase |  MySQL <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" /> Figma | Canvas <br>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Github <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30"/> Linux (Ubuntu) | Windows | macOS <br><br>
 
 
-## Idiomas que estou aprendendo: 
-### :uk: SENAC - English course, Express V <br><br>
-
-## :speech_balloon: Let's connect: <br>
-
-<div>
-
-### :mailbox: dmaria.natal@gmail.com 
-          
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24"/> [Linkedin](https://www.linkedin.com/in/denise-castro-59425b4a/) <br>
-          
-### :globe_with_meridians: [Portfólio](https://deniseleandrodecastro.github.io/portifolio/) 
-
-</div> <br>
-
-## :bar_chart: Estatísticas: <br>
-
-<div>
-<a href="https://github.com/DeniseLeandroDeCastro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseLeandroDeCastro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeniseLeandroDeCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
